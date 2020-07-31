@@ -1,0 +1,5 @@
+a 2 3 aiskrim 
+b 4 5 burger 
+c 10 12 cendol 
+d 5 8 qonut 
+s 15 20 sekolah 

@@ -1,0 +1,5 @@
+A 8 24 Airport 
+C 4 16 Condominiums 
+H 4 8 Hospitals 
+S 6 12 School 
+U 12 24 University 
